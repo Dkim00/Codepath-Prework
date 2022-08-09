@@ -80,6 +80,7 @@
 		298FEF5E28A26540007F61E1 = {
 			isa = PBXGroup;
 			children = (
+				298FEF9A28A274DE007F61E1 /* Readme.md */,
 				298FEF6928A26540007F61E1 /* prework */,
 				298FEF8028A26543007F61E1 /* preworkTests */,
 				298FEF8A28A26543007F61E1 /* preworkUITests */,
@@ -104,7 +105,6 @@
 				298FEF6C28A26540007F61E1 /* SceneDelegate.swift */,
 				298FEF6E28A26540007F61E1 /* ViewController.swift */,
 				298FEF7028A26540007F61E1 /* Main.storyboard */,
-				298FEF9A28A274DE007F61E1 /* Readme.md */,
 				298FEF7328A26542007F61E1 /* Assets.xcassets */,
 				298FEF7528A26542007F61E1 /* LaunchScreen.storyboard */,
 				298FEF7828A26542007F61E1 /* Info.plist */,
