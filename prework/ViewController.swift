@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  prework
 //
-//  Created by Ai Wah Low on 8/9/22.
+//  Created by David Kim on 8/9/22.
 //
 
 import UIKit
@@ -15,5 +15,12 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet weak var TextLabel: UILabel!
+    @IBAction func ButtonClicked(_ sender: Any) {
+        print("Hello!")
+        TextLabel.textColor = UIColor.random()
+    }
 }
+
+
 
