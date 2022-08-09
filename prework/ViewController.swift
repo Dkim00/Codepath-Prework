@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var TextLabel: UILabel!
     @IBAction func ButtonClicked(_ sender: Any) {
         print("Hello!")
-        TextLabel.textColor = UIColor.random()
+        TextLabel.textColor = UIColor.blue
     }
 }
 

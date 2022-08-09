@@ -49,6 +49,7 @@
 		298FEF8728A26543007F61E1 /* preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = preworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		298FEF8B28A26543007F61E1 /* preworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preworkUITests.swift; sourceTree = "<group>"; };
 		298FEF8D28A26543007F61E1 /* preworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = preworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		298FEF9A28A274DE007F61E1 /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				298FEF6C28A26540007F61E1 /* SceneDelegate.swift */,
 				298FEF6E28A26540007F61E1 /* ViewController.swift */,
 				298FEF7028A26540007F61E1 /* Main.storyboard */,
+				298FEF9A28A274DE007F61E1 /* Readme.md */,
 				298FEF7328A26542007F61E1 /* Assets.xcassets */,
 				298FEF7528A26542007F61E1 /* LaunchScreen.storyboard */,
 				298FEF7828A26542007F61E1 /* Info.plist */,
